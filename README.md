@@ -10,7 +10,7 @@ Aşağıdaki komutları terminalinizde çalıştırarak hızlıca kurulum yapabi
 git clone https://github.com/furkansandal/pyenv-and-3.10.9-installer.git
 cd pyenv-and-3.10.9-installer
 chmod +x script.sh
-sudo ./script.sh
+./script.sh
 python --version
 ```
 
